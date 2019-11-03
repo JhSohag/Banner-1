@@ -1,5 +1,5 @@
-# Banner
-Mempercantik Tampilan Termux 
-$ git clone https://github.com/Mr-XsZ/Banner
-$ cd banner 
+# T-banner
+Termux-Banner
+$ git clone https://github.com/JhSohag/T-banner
+$ cd T-banner 
 $ python2 termux.py
